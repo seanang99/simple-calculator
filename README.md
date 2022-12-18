@@ -1,5 +1,5 @@
 # simple-calculator
- Simple Calculator Application
+ Simple Calculator Application with Redux
  
  Created by Sean Ang
  
