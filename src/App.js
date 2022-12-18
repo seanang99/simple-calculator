@@ -35,7 +35,7 @@ function App() {
     }
 
     try {
-      setResult((eval(checkResult) || '') + '');
+      setResult(`${eval(checkResult) || ''}`);
     } 
     catch (error) {
       setResult('error');
